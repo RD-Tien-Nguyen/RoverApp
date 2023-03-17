@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=549820f1_002Da9d7_002D4670_002D91e2_002Dbdf79afd392d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NavigateRover_Ok_Test #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_Ok_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6d69e8df_002Db7c7_002D4ba2_002Da895_002D59abb440532b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NavigateRover_Ok_Test #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_Ok_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d5f2394_002D92ec_002D40f2_002D9442_002De8a6cc5f6685/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NavigateRover_Ok_Test #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_Ok_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_WhenRoverMoveOutOfBounds_ThenRoverSkipMovement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_WhenRoverColliedWithAnotherRover_ThenNavigationServiceReturnCollionMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8cb94a48_002De765_002D4207_002D8578_002De1b8136711ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NavigateRover_WhenRoverMoveOutOfBounds_ThenRoverSkipMovement" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::25F23C23-6997-4591-B3F5-4F3695E47BB8::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_WhenRoverMoveOutOfBounds_ThenRoverSkipMovement&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1654a47_002D29f6_002D4888_002Da942_002D267a0b5c39da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NavigateRover_Ok_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_Ok_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e61a7759_002De81f_002D40f0_002D8696_002Dbfc73d3f51c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NavigateRover_Ok_Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58D8FC28-8097-4799-A716-26E7C3F7B685::net6.0::MarsRover.UnitTest.Service.NavigationServiceTests.NavigateRover_Ok_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

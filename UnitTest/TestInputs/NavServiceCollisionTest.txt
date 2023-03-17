@@ -1,0 +1,5 @@
+2 2
+0 1 S
+MLMMLMM
+0 0 N
+MMRMM
